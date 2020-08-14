@@ -1,0 +1,595 @@
+el anuncio clasificado,classified ad;los beneficios,profit;la cliente,customer;la compañía,company;la dueño,owner;la fecha de nacimiento,date of birth;la gerente,manager;el puesto,position;el salario,salary;la solicitud de empleo,job application;la computación,calculation;la consejero,counselor;la mensajero,messenger;la niñero,fond of children;la repartidor,deliveryman;la recepcionista,receptionist;la salvavida,life jacket;agradable,nice;dedicado,to dedicate
+
+presentIndicative:
+dedico
+dedicas
+dedica
+dedicamos
+dedicáis
+dedican
+
+preteritIndicative:
+dediqué
+dedicaste
+dedicó
+dedicamos
+dedicasteis
+dedicaron
+
+imperfectIndicative:
+dedicaba
+dedicabas
+dedicaba
+dedicábamos
+dedicabais
+dedicaban
+
+presentSubjunctive:
+dedique
+dediques
+dedique
+dediquemos
+dediquéis
+dediquen
+;flexible,flexible;injusto,unfair;justo,fair;puntual,punctual;la responsabilidad,responsibility;responsable,responsible;los conocimientos,knowledge;la entrevista,interview;la habilidad,ability;la referencia,reference;el requisito,requirement;a tiempo completo,full-time;a tiempo parcial,part-time;atender,to look after
+
+presentIndicative:
+atiendo
+atiendes
+atiende
+atendemos
+atendéis
+atienden
+
+preteritIndicative:
+atendí
+atendiste
+atendió
+atendimos
+atendisteis
+atendieron
+
+imperfectIndicative:
+atendía
+atendías
+atendía
+atendíamos
+atendíais
+atendían
+
+presentSubjunctive:
+atienda
+atiendas
+atienda
+atendamos
+atendáis
+atiendan
+;construir,to build
+
+presentIndicative:
+construyo
+construyes
+construye
+construimos
+construís
+construyen
+
+preteritIndicative:
+construí
+construiste
+construyó
+construimos
+construisteis
+construyeron
+
+imperfectIndicative:
+construía
+construías
+construía
+construíamos
+construíais
+construían
+
+presentSubjunctive:
+construya
+construyas
+construya
+construyamos
+construyáis
+construyan
+;cumplir con,to carry out;cumplido,compliment;donar,to donate
+
+presentIndicative:
+dono
+donas
+dona
+donamos
+donáis
+donan
+
+preteritIndicative:
+doné
+donaste
+donó
+donamos
+donasteis
+donaron
+
+imperfectIndicative:
+donaba
+donabas
+donaba
+donábamos
+donabais
+donaban
+
+presentSubjunctive:
+done
+dones
+done
+donemos
+donéis
+donen
+;encargarse,to handle
+
+presentIndicative:
+me encargo
+te encargas
+se encarga
+nos encargamos
+os encargáis
+se encargan
+
+preteritIndicative:
+me encargué
+te encargaste
+se encargó
+nos encargamos
+os encargasteis
+se encargaron
+
+imperfectIndicative:
+me encargaba
+te encargabas
+se encargaba
+nos encargábamos
+os encargabais
+se encargaban
+
+presentSubjunctive:
+me encargue
+te encargues
+se encargue
+nos encarguemos
+os encarguéis
+se encarguen
+;juntar fondos,to raise funds;presentarse,to turn up
+
+presentIndicative:
+me presento
+te presentas
+se presenta
+nos presentamos
+os presentáis
+se presentan
+
+preteritIndicative:
+me presenté
+te presentaste
+se presentó
+nos presentamos
+os presentasteis
+se presentaron
+
+imperfectIndicative:
+me presentaba
+te presentabas
+se presentaba
+nos presentábamos
+os presentabais
+se presentaban
+
+presentSubjunctive:
+me presente
+te presentes
+se presente
+nos presentemos
+os presentéis
+se presenten
+;reparar,to repair
+
+presentIndicative:
+reparo
+reparas
+repara
+reparamos
+reparáis
+reparan
+
+preteritIndicative:
+reparé
+reparaste
+reparó
+reparamos
+reparasteis
+repararon
+
+imperfectIndicative:
+reparaba
+reparabas
+reparaba
+reparábamos
+reparabais
+reparaban
+
+presentSubjunctive:
+repare
+repares
+repare
+reparemos
+reparéis
+reparen
+;repartir,to distribute
+
+presentIndicative:
+reparto
+repartes
+reparte
+repartimos
+repartís
+reparten
+
+preteritIndicative:
+repartí
+repartiste
+repartió
+repartimos
+repartisteis
+repartieron
+
+imperfectIndicative:
+repartía
+repartías
+repartía
+repartíamos
+repartíais
+repartían
+
+presentSubjunctive:
+reparta
+repartas
+reparta
+repartamos
+repartáis
+repartan
+;seguir,to follow
+
+presentIndicative:
+sigo
+sigues
+sigue
+seguimos
+seguís
+siguen
+
+preteritIndicative:
+seguí
+seguiste
+siguió
+seguimos
+seguisteis
+siguieron
+
+imperfectIndicative:
+seguía
+seguías
+seguía
+seguíamos
+seguíais
+seguían
+
+presentSubjunctive:
+siga
+sigas
+siga
+sigamos
+sigáis
+sigan
+;sembrar,to plant
+
+presentIndicative:
+siembro
+siembras
+siembra
+sembramos
+sembráis
+siembran
+
+preteritIndicative:
+sembré
+sembraste
+sembró
+sembramos
+sembrasteis
+sembraron
+
+imperfectIndicative:
+sembraba
+sembrabas
+sembraba
+sembrábamos
+sembrabais
+sembraban
+
+presentSubjunctive:
+siembre
+siembres
+siembre
+sembremos
+sembréis
+siembren
+;soler,to use to
+
+presentIndicative:
+suelo
+sueles
+suele
+solemos
+soléis
+suelen
+
+preteritIndicative:
+solí
+soliste
+solió
+solimos
+solisteis
+solieron
+
+imperfectIndicative:
+solía
+solías
+solía
+solíamos
+solíais
+solían
+
+presentSubjunctive:
+suela
+suelas
+suela
+solamos
+soláis
+suelan
+;solicitar,to request
+
+presentIndicative:
+solicito
+solicitas
+solicita
+solicitamos
+solicitáis
+solicitan
+
+preteritIndicative:
+solicité
+solicitaste
+solicitó
+solicitamos
+solicitasteis
+solicitaron
+
+imperfectIndicative:
+solicitaba
+solicitabas
+solicitaba
+solicitábamos
+solicitabais
+solicitaban
+
+presentSubjunctive:
+solicite
+solicites
+solicite
+solicitemos
+solicitéis
+soliciten
+;la campaña,campaign;el centro de la comunidad,community center;el centro de rehabilitación,Unavailable;el centro recreativo,recreation center;la ciudadanía,citizenship;la ciudadano,citizen;el comedor de beneficencia,soup kitchen;los derechos,right;la gente sin hogar,homeless people;la ley,law;la manifestación,demonstration;la marcha,march;el medio ambiente,environment;el servicio social,social service;la sociedad,society;beneficiar,to benefit
+
+presentIndicative:
+beneficio
+beneficias
+beneficia
+beneficiamos
+beneficiáis
+benefician
+
+preteritIndicative:
+beneficié
+beneficiaste
+benefició
+beneficiamos
+beneficiasteis
+beneficiaron
+
+imperfectIndicative:
+beneficiaba
+beneficiabas
+beneficiaba
+beneficiábamos
+beneficiabais
+beneficiaban
+
+presentSubjunctive:
+beneficie
+beneficies
+beneficie
+beneficiemos
+beneficiéis
+beneficien
+;educar,to bring up
+
+presentIndicative:
+educo
+educas
+educa
+educamos
+educáis
+educan
+
+preteritIndicative:
+eduqué
+educaste
+educó
+educamos
+educasteis
+educaron
+
+imperfectIndicative:
+educaba
+educabas
+educaba
+educábamos
+educabais
+educaban
+
+presentSubjunctive:
+eduque
+eduques
+eduque
+eduquemos
+eduquéis
+eduquen
+;garantizar,to guarantee
+
+presentIndicative:
+garantizo
+garantizas
+garantiza
+garantizamos
+garantizáis
+garantizan
+
+preteritIndicative:
+garanticé
+garantizaste
+garantizó
+garantizamos
+garantizasteis
+garantizaron
+
+imperfectIndicative:
+garantizaba
+garantizabas
+garantizaba
+garantizábamos
+garantizabais
+garantizaban
+
+presentSubjunctive:
+garantice
+garantices
+garantice
+garanticemos
+garanticéis
+garanticen
+;organizar,to organize
+
+presentIndicative:
+organizo
+organizas
+organiza
+organizamos
+organizáis
+organizan
+
+preteritIndicative:
+organicé
+organizaste
+organizó
+organizamos
+organizasteis
+organizaron
+
+imperfectIndicative:
+organizaba
+organizabas
+organizaba
+organizábamos
+organizabais
+organizaban
+
+presentSubjunctive:
+organice
+organices
+organice
+organicemos
+organicéis
+organicen
+;proteger,to protect
+
+presentIndicative:
+protejo
+proteges
+protege
+protegemos
+protegéis
+protegen
+
+preteritIndicative:
+protegí
+protegiste
+protegió
+protegimos
+protegisteis
+protegieron
+
+imperfectIndicative:
+protegía
+protegías
+protegía
+protegíamos
+protegíais
+protegían
+
+presentSubjunctive:
+proteja
+protejas
+proteja
+protejamos
+protejáis
+protejan
+;a favor de,in favor of;en contra,against;me es imposible,it's impossible for me;me encantaría,I'd love;me interesaría,to interest
+
+presentIndicative:
+me intereso
+te interesas
+se interesa
+nos interesamos
+os interesáis
+se interesan
+
+preteritIndicative:
+me interesé
+te interesaste
+se interesó
+nos interesamos
+os interesasteis
+se interesaron
+
+imperfectIndicative:
+me interesaba
+te interesabas
+se interesaba
+nos interesábamos
+os interesabais
+se interesaban
+
+presentSubjunctive:
+me interese
+te intereses
+se interese
+nos interesemos
+os intereséis
+se interesen
+;
